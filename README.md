@@ -6,12 +6,12 @@ THE GAME IS STRICTLY FOR EDUCATIONAL PURPOSES AND DOESNT MEAN TO REPLICATE THE O
 
 so enjoy the game and feel free to give any feedbacks.
 
-START MENU:
+# START MENU:
 
 ![Screenshot 2024-10-05 012627](https://github.com/user-attachments/assets/e61a300f-3d79-4ba0-97f4-901e3e6de2db)
-PLAYING:
+# PLAYING:
 
 ![image](https://github.com/user-attachments/assets/7fdce22c-cdab-4f11-bdad-fb518eb628fd)
-GAME OVER:
+# GAME OVER:
 
 ![Screenshot 2024-10-05 012804](https://github.com/user-attachments/assets/472c6fdd-266a-4119-bfff-a94fe1fe974c)
